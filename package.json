@@ -1,0 +1,31 @@
+{
+  "name": "amigo-secreto",
+  "version": "1.0.0",
+  "description": "Site para sortear amigo secreto",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoPedro/amigo-secreto.git"
+  },
+  "keywords": [
+    "amigo-secreto",
+    "site",
+    "website",
+    "node"
+  ],
+  "author": "João Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoPedro/amigo-secreto/issues"
+  },
+  "homepage": "https://github.com/JoPedro/amigo-secreto#readme"
+}
